@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ankitdevani17/Entertainment-Hub/static/css/main.70a47c26.css",
+    "main.js": "/ankitdevani17/Entertainment-Hub/static/js/main.f048c5da.js",
+    "index.html": "/ankitdevani17/Entertainment-Hub/index.html",
+    "main.70a47c26.css.map": "/ankitdevani17/Entertainment-Hub/static/css/main.70a47c26.css.map",
+    "main.f048c5da.js.map": "/ankitdevani17/Entertainment-Hub/static/js/main.f048c5da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a47c26.css",
+    "static/js/main.f048c5da.js"
+  ]
+}
